@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.orhanarda093520_tech.twa",
+        "sha256_cert_fingerprints": ["36:16:B5:B2:2B:1F:B0:E1:37:19:C4:7B:10:C0:ED:38:59:01:95:72:6B:87:D5:24:1C:05:D1:6F:6F:1D:79:C3"]
+      }
+    }]
